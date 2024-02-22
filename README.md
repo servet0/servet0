@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben Servet Acar</h1>
+<h1 align="center">Merhaba👋, Ben Servet Acar</h1>
 <h3 align="center">Yazılım geliştirme alanında backend teknolojilerine odaklanmış bir yazılım geliştiriciyim.</h3>
 
 <h3 align="left">Connect with me:</h3>
