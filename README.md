@@ -1,8 +1,8 @@
 # 👨‍💻 Servet Acar
 
-Merhaba! Ben **Software Developer** olarak çalışan bir yazılım geliştiricisiyim. Modern web teknolojileri, veri bilimi, yapay zeka ve yazılım geliştirme süreçlerinde sürekli öğrenmeye odaklı bir geliştiriciyim.
+Hello! I am a **Software Developer** working in software development. I am a developer focused on continuous learning in modern web technologies, data science, artificial intelligence, and software development processes.
 
-## 🚀 Teknolojiler & Beceriler
+## 🚀 Technologies & Skills
 
 ### **Backend Development**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,7 +28,7 @@ Merhaba! Ben **Software Developer** olarak çalışan bir yazılım geliştirici
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### **Veritabanları**
+### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -44,106 +44,108 @@ Merhaba! Ben **Software Developer** olarak çalışan bir yazılım geliştirici
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-## 💼 Uzmanlık Alanlarım
+## 💼 Areas of Expertise
 
 ### **Web Development**
-- **Full-Stack Development**: Frontend ve backend teknolojilerinde kapsamlı deneyim
-- **Modern Web Frameworks**: Django, Flask, Spring Boot, Next.js ile dinamik web uygulamaları
-- **RESTful API Development**: Güvenli ve ölçeklenebilir API tasarımı
-- **Progressive Web Apps (PWA)**: Modern web uygulamaları geliştirme
+- **Full-Stack Development**: Comprehensive experience in frontend and backend technologies
+- **Modern Web Frameworks**: Dynamic web applications with Django, Flask, Spring Boot, Next.js
+- **RESTful API Development**: Secure and scalable API design
+- **Progressive Web Apps (PWA)**: Modern web application development
 
 ### **Software Development**
-- **Object-Oriented Programming**: C#, Java, Python ile güçlü OOP prensipleri
-- **Design Patterns**: Yazılım tasarım desenleri ve best practices
-- **Clean Code**: Okunabilir, sürdürülebilir ve test edilebilir kod yazımı
-- **Agile Development**: Scrum ve Kanban metodolojileri
+- **Object-Oriented Programming**: Strong OOP principles with C#, Java, Python
+- **Design Patterns**: Software design patterns and best practices
+- **Clean Code**: Readable, maintainable, and testable code writing
+- **Agile Development**: Scrum and Kanban methodologies
 
 ### **DevOps & Infrastructure**
-- **Containerization**: Docker ile uygulama konteynerizasyonu
-- **Linux Administration**: Ubuntu ve diğer Linux dağıtımları
-- **CI/CD Pipelines**: Otomatik deployment süreçleri
-- **Cloud Services**: AWS, Azure, Google Cloud deneyimi
+- **Containerization**: Application containerization with Docker
+- **Linux Administration**: Ubuntu and other Linux distributions
+- **CI/CD Pipelines**: Automated deployment processes
+- **Cloud Services**: AWS, Azure, Google Cloud experience
 
 ### **Database Management**
-- **SQL Databases**: MySQL, PostgreSQL ile ilişkisel veritabanı yönetimi
-- **NoSQL Databases**: MongoDB ile doküman tabanlı veritabanları
-- **Database Design**: Veritabanı tasarımı ve optimizasyonu
-- **Data Migration**: Veri taşıma ve dönüştürme süreçleri
+- **SQL Databases**: Relational database management with MySQL, PostgreSQL
+- **NoSQL Databases**: Document-based databases with MongoDB
+- **Database Design**: Database design and optimization
+- **Data Migration**: Data transfer and transformation processes
 
 ### **Data Science & Artificial Intelligence**
-- **Machine Learning**: TensorFlow, PyTorch ile derin öğrenme modelleri
-- **Computer Vision**: OpenCV ile görüntü işleme ve analiz
-- **Data Analysis**: Pandas, NumPy ile veri analizi ve manipülasyonu
-- **Data Visualization**: Matplotlib, Seaborn ile veri görselleştirme
-- **Streamlit Apps**: Hızlı veri bilimi uygulamaları geliştirme
-- **IoT & Device Management**: Akıllı cihaz yönetimi sistemleri
+- **Machine Learning**: Deep learning models with TensorFlow, PyTorch
+- **Computer Vision**: Image processing and analysis with OpenCV
+- **Data Analysis**: Data analysis and manipulation with Pandas, NumPy
+- **Data Visualization**: Data visualization with Matplotlib, Seaborn
+- **Streamlit Apps**: Rapid data science application development
+- **IoT & Device Management**: Smart device management systems
 
-## 🛠️ Projeler
+## 🛠️ Projects
 
-### **Web Uygulamaları**
-- **FakeBuster** - Python tabanlı sahte içerik tespit sistemi
-- **MindMatch** - TypeScript ile geliştirilmiş akıl oyunu platformu
-- **TravelSafetyMap** - Seyahat güvenliği harita uygulaması
-- **IoT Device Management** - Java ile akıllı cihaz yönetim sistemi
+### **Web Applications**
+- **FakeBuster** - Python-based fake content detection system
+- **MindMatch** - Mind game platform developed with TypeScript
+- **TravelSafetyMap** - Travel safety map application
+- **IoT Device Management** - Smart device management system with Java
 
-### **AI & Data Science Projeleri**
-- **Computer Vision**: OpenCV ile görüntü işleme uygulamaları
-- **Machine Learning**: TensorFlow/PyTorch ile derin öğrenme modelleri
-- **Data Analysis**: Pandas, NumPy ile büyük veri analizi
-- **Streamlit Dashboards**: İnteraktif veri görselleştirme uygulamaları
+### **AI & Data Science Projects**
+- **Computer Vision**: Image processing applications with OpenCV
+- **Machine Learning**: Deep learning models with TensorFlow/PyTorch
+- **Data Analysis**: Big data analysis with Pandas, NumPy
+- **Streamlit Dashboards**: Interactive data visualization applications
 
-### **Mikroservisler**
+### **Microservices**
 - Microservice architecture
 - Service-oriented design
-- API Gateway implementasyonu
-- Message queue sistemleri
+- API Gateway implementation
+- Message queue systems
 
-### **DevOps Projeleri**
+### **DevOps Projects**
 - Docker containerization
-- CI/CD pipeline kurulumu
+- CI/CD pipeline setup
 - Infrastructure as Code
-- Monitoring ve logging
+- Monitoring and logging
 
-## 📚 Sürekli Öğrenme
+## 📚 Continuous Learning
 
-Yazılım dünyasının hızla değişen doğası gereği, sürekli öğrenmeye ve yeni teknolojileri takip etmeye odaklanıyorum:
+Due to the rapidly changing nature of the software world, I focus on continuous learning and keeping up with new technologies:
 
-- **Yeni Teknolojiler**: En güncel framework ve kütüphaneleri öğrenme
-- **Best Practices**: Endüstri standartlarını takip etme
-- **Open Source**: Topluluk projelerine katkıda bulunma
-- **Mentoring**: Diğer geliştiricilerle bilgi paylaşımı
+- **New Technologies**: Learning the latest frameworks and libraries
+- **Best Practices**: Following industry standards
+- **Open Source**: Contributing to community projects
+- **Mentoring**: Sharing knowledge with other developers
 
-## 🌟 Neler Yapabilirim?
+## 🌟 What Can I Do?
 
 ### **Backend Development**
-- Python ile Django/Flask web uygulamaları
-- C# ile .NET Core uygulamaları
-- Java ile Spring Boot mikroservisler
-- PHP ile dinamik web siteleri
+- Web applications with Python Django/Flask
+- Applications with C# .NET Core
+- Microservices with Java Spring Boot
+- Dynamic websites with PHP
 
 ### **AI & Data Science**
-- TensorFlow/PyTorch ile derin öğrenme modelleri
-- OpenCV ile computer vision uygulamaları
-- Pandas/NumPy ile veri analizi ve manipülasyonu
-- Streamlit ile hızlı veri bilimi uygulamaları
-- Scikit-learn ile makine öğrenmesi modelleri
+- Deep learning models with TensorFlow/PyTorch
+- Computer vision applications with OpenCV
+- Data analysis and manipulation with Pandas/NumPy
+- Rapid data science applications with Streamlit
+- Machine learning models with Scikit-learn
 
 ### **Frontend Development**
-- JavaScript/TypeScript ile modern web uygulamaları
-- React ve Next.js ile SPA/SSR uygulamaları
-- Responsive ve accessible UI tasarımı
-- Progressive Web App geliştirme
+- Modern web applications with JavaScript/TypeScript
+- SPA/SSR applications with React and Next.js
+- Responsive and accessible UI design
+- Progressive Web App development
 
 ### **Database & DevOps**
-- SQL ve NoSQL veritabanı tasarımı
+- SQL and NoSQL database design
 - Docker containerization
-- CI/CD pipeline kurulumu
-- Linux server yönetimi
+- CI/CD pipeline setup
+- Linux server management
 
-## 📫 İletişim
+## 📫 Contact
 
-Projeleriniz için işbirliği yapmak isterseniz veya herhangi bir sorunuz varsa, profilimdeki bilgiler aracılığıyla benimle iletişime geçebilirsiniz:
+If you want to collaborate on projects or have any questions, you can contact me through the information in my profile:
 
 ---
 
-⭐ **Bu profili beğendiyseniz yıldız vermeyi unutmayın!**
+⭐ **If you liked this profile, don't forget to give it a star!**
+
+*"Writing code is an art, continuous learning is a lifestyle."*
