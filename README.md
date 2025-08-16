@@ -81,10 +81,10 @@ Merhaba! Ben **Software Developer** olarak çalışan bir yazılım geliştirici
 ## 🛠️ Projeler
 
 ### **Web Uygulamaları**
-- **[FakeBuster](https://github.com/YOUR_USERNAME/fakebuster)** - Python tabanlı sahte içerik tespit sistemi
-- **[MindMatch](https://github.com/YOUR_USERNAME/mindmatch)** - TypeScript ile geliştirilmiş akıl oyunu platformu
-- **[TravelSafetyMap](https://github.com/YOUR_USERNAME/TravelSafetyMap)** - Seyahat güvenliği harita uygulaması
-- **[IoT Device Management](https://github.com/YOUR_USERNAME/iot-device-management)** - Java ile akıllı cihaz yönetim sistemi
+- **FakeBuster** - Python tabanlı sahte içerik tespit sistemi
+- **MindMatch** - TypeScript ile geliştirilmiş akıl oyunu platformu
+- **TravelSafetyMap** - Seyahat güvenliği harita uygulaması
+- **IoT Device Management** - Java ile akıllı cihaz yönetim sistemi
 
 ### **AI & Data Science Projeleri**
 - **Computer Vision**: OpenCV ile görüntü işleme uygulamaları
@@ -142,11 +142,8 @@ Yazılım dünyasının hızla değişen doğası gereği, sürekli öğrenmeye 
 
 ## 📫 İletişim
 
-Projeleriniz için işbirliği yapmak isterseniz veya herhangi bir sorunuz varsa, benimle iletişime geçebilirsiniz:
+Projeleriniz için işbirliği yapmak isterseniz veya herhangi bir sorunuz varsa, profilimdeki bilgiler aracılığıyla benimle iletişime geçebilirsiniz:
 
-- **LinkedIn**:[https://www.linkedin.com/in/servetacar/
-- **Portfolio**:
-- 
 ---
 
 ⭐ **Bu profili beğendiyseniz yıldız vermeyi unutmayın!**
